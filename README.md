@@ -1,8 +1,10 @@
-[ VisualBGRT Bootloader Utility for UEFI-based Windows Systems Read Me ]
+<img src="https://github.com/beaujos/VisualBGRT/blob/main/logo.png" width="256" height="256">
+
+**VisualBGRT Bootloader Utility for UEFI-based Windows Systems Read Me**
 
 ==================================================================
 
-[ About ]
+**About**
 
 - Version 1.1.0
 - Microsoft .NET Framework Version 4.8
@@ -13,7 +15,7 @@
 
 ==================================================================
 
-[ Description ]
+**Description**
 
 Based from HackBGRT made by Metabolix from GitHub, you can customize your own Windows logo with MSPaint and setting up on the UEFI system
 using this simple console app. But with VisualBGRT, you can select your own logo from any image formats (e.g BMP, PNG, JPEG) then
@@ -33,13 +35,13 @@ You can find more information about HackBGRT on GitHub: https://github.com/Metab
 
 ==================================================================
 
-[ Requirements ]
+**Requirements**
 
 - Operating Systems: Windows 8/8.1, 10 and 11 (64-Bit and 32-Bit)
 - BIOS: UEFI-based System (Recommended Secure Boot Disabled)
 - Prerequisites: Microsoft .NET Framework 4.8
 
-[ Cross-Compilers and Librairies are used for compiling the EFI bootloader ]
+**Cross-Compilers and Librairies are used for compiling the EFI bootloader**
 
 - GCC targeting w64-mingw32 (x86_64-w64-mingw32-gcc, i686-w64-mingw32-gcc)
 - GNU Linker (GNU Binutils)
@@ -50,7 +52,7 @@ You can find more information about HackBGRT on GitHub: https://github.com/Metab
 
 ==================================================================
 
-[ Installation ]
+**Installation**
 
 1. Start the utility (Always provide as Administrator), if UEFI is detected on your computer, it will verify if the EFI System Partition exists then open the interface.
 
