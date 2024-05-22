@@ -1,4 +1,4 @@
-<img src="https://github.com/beaujos/VisualBGRT/blob/main/logo.png" width="256" height="256">
+<img src="https://github.com/beaujos/VisualBGRT/blob/main/logo.png" width="256" height="230">
 
 **VisualBGRT Bootloader Utility for UEFI-based Windows Systems Read Me**
 
